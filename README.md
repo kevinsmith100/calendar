@@ -21,6 +21,7 @@ React Calendar
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/rc-calendar.svg?style=flat-square
 [download-url]: https://npmjs.org/package/rc-calendar
+<a href="https://snyk.io/test/github/kevinsmith100/calendar"><img src="https://snyk.io/test/github/kevinsmith100/calendar/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/kevinsmith100/calendar" style="max-width:100%;"></a>
 
 ## Screenshots
 
